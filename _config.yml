@@ -104,4 +104,4 @@ theme: next
 deploy:
   type: git
   repo: https://github.com/343829084/343829084.git.io.git # 粘贴第一步复制的仓库HTTPS地址
-  branch: main  # 推送分支，固定写main（GitHub默认主分支）
+  branch: master  # 推送分支，固定写main（GitHub默认主分支）
